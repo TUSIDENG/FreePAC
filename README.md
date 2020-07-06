@@ -197,7 +197,7 @@ v2ray bbr
 
 ## 5、客户端配置
 
-下载地址：[客户端](https://github.com/v2ray/v2ray-core/releases)
+下载地址：[v2ray-core](https://github.com/v2ray/v2ray-core/releases) [v2rayN](https://github.com/2dust/v2rayN/releases)
 
 对`v2ray-windows-64.zip`进行解压，然后将下载的`V2RayN.exe`复制到解压后的目录，即两个下载好的文件需要在同一目录。
 
